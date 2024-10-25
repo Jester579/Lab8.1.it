@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Lab8.1.it\Lab8.1.it\Source.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\User\source\repos\Lab8.1.it\Lab8.1.it\Source.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Lab8.1.it.vcxproj -> C:\Users\User\source\repos\Lab8.1.it\x64\Debug\Lab8.1.it.exe
